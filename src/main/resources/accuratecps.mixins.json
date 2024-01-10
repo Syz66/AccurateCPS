@@ -1,0 +1,8 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "me.zircta.accuratecps.mixin",
+  "mixins": [
+    "MinecraftMixin"
+  ]
+}

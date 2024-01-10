@@ -1,10 +1,10 @@
-## Mod Template
-A simple mod template for Weave.
+## Accurate CPS
+Modifies Lunar Client's CPS counter to display a more (slightly) accurate number.
 
 ---
 
 ### Installation
-1. Download [Mod Template](https://github.com/Syz66/ModTemplate/releases/latest) mod.
+1. Download [Accurate CPS](https://github.com/Syz66/AccurateCPS/releases/latest) mod.
 2. Place the jar in your Weave mods folder.
 3. Download [lunar-client-qt](https://github.com/Youded-byte/lunar-client-qt/releases/latest).
 
